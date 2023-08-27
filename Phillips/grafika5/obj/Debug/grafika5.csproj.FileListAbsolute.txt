@@ -1,0 +1,11 @@
+C:\Users\michael.phillips.H303-06\source\repos\grafika5\grafika5\bin\Debug\grafika5.exe.config
+C:\Users\michael.phillips.H303-06\source\repos\grafika5\grafika5\bin\Debug\grafika5.exe
+C:\Users\michael.phillips.H303-06\source\repos\grafika5\grafika5\bin\Debug\grafika5.pdb
+C:\Users\michael.phillips.H303-06\source\repos\grafika5\grafika5\obj\Debug\grafika5.csproj.AssemblyReference.cache
+C:\Users\michael.phillips.H303-06\source\repos\grafika5\grafika5\obj\Debug\grafika5.csproj.SuggestedBindingRedirects.cache
+C:\Users\michael.phillips.H303-06\source\repos\grafika5\grafika5\obj\Debug\grafika5.Form1.resources
+C:\Users\michael.phillips.H303-06\source\repos\grafika5\grafika5\obj\Debug\grafika5.Properties.Resources.resources
+C:\Users\michael.phillips.H303-06\source\repos\grafika5\grafika5\obj\Debug\grafika5.csproj.GenerateResource.cache
+C:\Users\michael.phillips.H303-06\source\repos\grafika5\grafika5\obj\Debug\grafika5.csproj.CoreCompileInputs.cache
+C:\Users\michael.phillips.H303-06\source\repos\grafika5\grafika5\obj\Debug\grafika5.exe
+C:\Users\michael.phillips.H303-06\source\repos\grafika5\grafika5\obj\Debug\grafika5.pdb

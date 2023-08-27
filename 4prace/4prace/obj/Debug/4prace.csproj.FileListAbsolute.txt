@@ -1,0 +1,11 @@
+C:\Users\michael.phillips.H303-06\source\repos\4prace\4prace\bin\Debug\4prace.exe.config
+C:\Users\michael.phillips.H303-06\source\repos\4prace\4prace\bin\Debug\4prace.exe
+C:\Users\michael.phillips.H303-06\source\repos\4prace\4prace\bin\Debug\4prace.pdb
+C:\Users\michael.phillips.H303-06\source\repos\4prace\4prace\obj\Debug\4prace.csproj.AssemblyReference.cache
+C:\Users\michael.phillips.H303-06\source\repos\4prace\4prace\obj\Debug\4prace.csproj.SuggestedBindingRedirects.cache
+C:\Users\michael.phillips.H303-06\source\repos\4prace\4prace\obj\Debug\_4prace.Form1.resources
+C:\Users\michael.phillips.H303-06\source\repos\4prace\4prace\obj\Debug\_4prace.Properties.Resources.resources
+C:\Users\michael.phillips.H303-06\source\repos\4prace\4prace\obj\Debug\4prace.csproj.GenerateResource.cache
+C:\Users\michael.phillips.H303-06\source\repos\4prace\4prace\obj\Debug\4prace.csproj.CoreCompileInputs.cache
+C:\Users\michael.phillips.H303-06\source\repos\4prace\4prace\obj\Debug\4prace.exe
+C:\Users\michael.phillips.H303-06\source\repos\4prace\4prace\obj\Debug\4prace.pdb
